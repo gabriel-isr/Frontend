@@ -2,7 +2,7 @@
 
 This project allow to maintain a list of image URLs and play a slideshow.
 The project based on Spring Boot, Angular, Postgres technology stack.
-This part of project is frontend project based on Angular Boot.
+This part of project is frontend project based on Angular.
 
 ## Features
 
