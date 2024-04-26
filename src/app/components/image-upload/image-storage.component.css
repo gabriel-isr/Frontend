@@ -1,0 +1,15 @@
+.preview {
+  max-width: 200px;
+}
+
+.slick-slide {
+		opacity:0;
+		transition:opacity 1s ease-out;
+	}
+.slick-active {
+		opacity:1!important;
+		transition:opacity 1s ease-in;
+	}
+.slick-cloned {
+  opacity: 0.3;
+}
